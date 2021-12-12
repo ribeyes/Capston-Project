@@ -1,8 +1,9 @@
 # 딥러닝과 AR기술을 이용한 실내 화재 감지와 대피경로 안내 시스템(졸업작품)
 ![image](https://user-images.githubusercontent.com/48247286/145415505-43d18103-3884-4a82-a6b7-a449d77a876f.png)  
+(모바일에서 실행했을때 화면)  
 <br>
 ## 소개
-저는 AR(증강현실) 기술을 구현하는 부분을 담당했습니다.  
+저는 AR(증강현실) 기술을 앱으로 구현하는 부분을 담당했습니다.  
 <br>
 
 * 개발기간  
@@ -25,6 +26,7 @@
 <br>
 ![image](https://user-images.githubusercontent.com/48247286/145416454-4efc4756-0ed7-47fb-b406-eb6531eac8e0.png)
 ![image](https://user-images.githubusercontent.com/48247286/145416959-f40ca092-6883-4999-b3e5-b9af77d0e226.png)  
+(모바일에서 실행했을때 화면)  
 <br>
 * 미니맵(오른쪽 아래)  
 
